@@ -1,0 +1,168 @@
+
+    [
+        {
+            "id": "PROD001",
+            "image" : "https://cdn.pixabay.com/photo/2023/10/01/14/40/medicine-8287535_960_720.jpg",
+            "name": "Paracetamol tablet (acetaminophen tablet)",
+            "physicalForm": "Tablet",
+            "drugType": {
+                "id": "CAT001",
+                "name": "General medicine"
+            },
+            "storage": "Keep dry & cool place",
+            "productDescription": "Paracetamol tablet is a widely used oral solid dosage form containing paracetamol (acetaminophen) as the active pharmaceutical ingredient. It is primarily used for the relief of pain (analgesic) and reduction of fever",
+            "minimumOrder": {
+                "quantity": 100,
+                "unit": "Box",
+                "note": "Or as per packing style"
+            },
+            "packingStyle": [
+                "1 blister × 10 tablets"
+            ]
+        },
+        {
+            "id": "PROD002",
+            "image" : "https://cdn.pixabay.com/photo/2023/10/01/14/40/medicine-8287535_960_720.jpg",
+            "name": "Amoxicillin tablet",
+            "physicalForm": "Tablet",
+            "drugType": {
+                "id": "CAT002",
+                "name": "Antibiotic medicine"
+            },
+            "storage": "Keep dry & cool place",
+            "productDescription": "Amoxicillin tablet is a solid oral dosage form containing amoxicillin, a broad-spectrum β-lactam antibiotic belonging to the penicillin group. It is widely prescribed for the treatment of various bacterial infections.",
+            "minimumOrder": {
+                "quantity": 100,
+                "unit": "Box",
+                "note": "Or as per packing style"
+            },
+            "packingStyle": [
+                "1 blister × 10 tablets"
+            ]
+        },
+        {
+            "id": "PROD003",
+            "image" : "https://cdn.pixabay.com/photo/2023/10/01/14/40/medicine-8287535_960_720.jpg",
+            "name": "Medroxyprogesterone Tablet",
+            "physicalForm": "Tablet",
+            "drugType": {
+                "id": "CAT003",
+                "name": "Hormonal tablet"
+            },
+            "storage": "Keep dry & cool place also Protect from light",
+            "productDescription": "Medroxyprogesterone Tablet is an oral solid dosage form containing medroxyprogesterone acetate, a synthetic progesterone derivative (progestin). It is widely used in gynecological and hormonal disorders related to progesterone deficiency",
+            "minimumOrder": {
+                "quantity": 100,
+                "unit": "Box",
+                "note": "Or as per packing style"
+            },
+            "packingStyle": [
+                "10 blister × 10 tablets"
+            ]
+        },
+        {
+            "id": "PROD004",
+            "image" : "https://cdn.pixabay.com/photo/2023/10/01/14/40/medicine-8287535_960_720.jpg",
+            "name": "Progesterone Tablet",
+            "physicalForm": "Tablet",
+            "drugType": {
+                "id": "CAT003",
+                "name": "Hormonal tablet"
+            },
+            "storage": "Keep dry & cool place",
+            "productDescription": "Progesterone Tablet is an oral solid dosage form containing progesterone, a natural female sex hormone (progestogen). It is used in the management of conditions associated with progesterone deficiency and for maintaining normal menstrual and reproductive functions.",
+            "minimumOrder": {
+                "quantity": 100,
+                "unit": "Box",
+                "note": "Or as per packing style"
+            },
+            "packingStyle": [
+                "1 blister × 10 tablets"
+            ]
+        },
+        {
+            "id": "PROD005",
+            "image" : "https://cdn.pixabay.com/photo/2023/10/01/14/40/medicine-8287535_960_720.jpg",
+            "name": "Levonorgestrel Tablet",
+            "physicalForm": "Tablet",
+            "drugType": {
+                "id": "CAT003",
+                "name": "Hormonal tablet"
+            },
+            "storage": "Keep dry & cool place",
+            "productDescription": "Levonorgestrel Tablet is an oral solid dosage form containing levonorgestrel, a synthetic progestin (second-generation). It is mainly used for contraception, including emergency contraception, and for the management of certain gynecological disorders.",
+            "minimumOrder": {
+                "quantity": 100,
+                "unit": "Box",
+                "note": "Or as per packing style"
+            },
+            "packingStyle": [
+                "1 blister × 2 tablet",
+                "1 blister × 1 tablet"
+            ]
+        },
+        {
+            "id": "PROD006",
+            "image" : "https://cdn.pixabay.com/photo/2023/10/01/14/40/medicine-8287535_960_720.jpg",
+            "name": "Levonorgestrel and ethinyl estradiol Tablet",
+            "physicalForm": "Tablet",
+            "drugType": {
+                "id": "CAT003",
+                "name": "Hormonal tablet"
+            },
+            "storage": "Keep dry & cool place",
+            "productDescription": "Levonorgestrel and ethinyl estradiol Tablet is a combined oral contraceptive (COC) tablet containing levonorgestrel (a synthetic progestin) and ethinyl estradiol (a synthetic estrogen). It is widely used for birth control and for the management of various menstrual and hormonal disorders.",
+            "minimumOrder": {
+                "quantity": 100,
+                "unit": "Box",
+                "note": "Or as per packing style"
+            },
+            "packingStyle": [
+                "1 blister × 28 tablet",
+                "1 blister × 21 tablet"
+            ]
+        },
+        {
+            "id": "PROD007",
+            "image" : "https://cdn.pixabay.com/photo/2023/10/01/14/40/medicine-8287535_960_720.jpg",
+            "name": "Drospirenone and ethinyl estradiol Tablet",
+            "physicalForm": "Tablet",
+            "drugType": {
+                "id": "CAT003",
+                "name": "Hormonal tablet"
+            },
+            "storage": "Keep dry & cool place",
+            "productDescription": "Drospirenone and ethinyl estradiol is a combined oral contraceptive (COC) containing drospirenone (a synthetic progestin with antimineralocorticoid activity) and ethinyl estradiol (a synthetic estrogen). It is used for contraception and for managing certain hormonal and menstrual disorders.",
+            "minimumOrder": {
+                "quantity": 100,
+                "unit": "Box",
+                "note": "Or as per packing style"
+            },
+            "packingStyle": [
+                "1 blister × 28 tablet",
+                "1 blister × 21 tablet"
+            ]
+        },
+        {
+            "id": "PROD008",
+            "image" : "https://cdn.pixabay.com/photo/2023/10/01/14/40/medicine-8287535_960_720.jpg",
+            "name": "Povidone iodine solution",
+            "physicalForm": "Liquid",
+            "drugType": {
+                "id": "CAT004",
+                "name": "Antiseptic solution"
+            },
+            "storage": "Keep dry & cool place, Protect from light, Keep container tightly closed",
+            "productDescription": "Povidone iodine solution is a topical antiseptic solution containing povidone-iodine, a stable chemical complex of iodine with polyvinylpyrrolidone (PVP). It is widely used for skin disinfection, wound care, and pre-operative antisepsis due to its broad-spectrum antimicrobial activity.",
+            "minimumOrder": {
+                "quantity": 100,
+                "unit": "Box",
+                "note": "Or as per packing style"
+            },
+            "packingStyle": [
+                "100 ml",
+                "500 ml"
+            ]
+        }
+    ]
+    
